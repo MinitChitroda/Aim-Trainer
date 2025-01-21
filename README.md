@@ -16,7 +16,7 @@ An engaging game created with Python and Pygame to enhance your aiming skills. T
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/MinitChitroda/Aim-Trainer-.git
+   git clone https://github.com/MinitChitroda/Aim-Trainer.git
 
 2. Navigate to the project directory.
 3. Install the required Libraries.
